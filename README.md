@@ -69,7 +69,4 @@ Now it's time to delete an entry using HTTP requests. For this to work you must 
     curl -X DELETE http://localhost:8000/user/2
     
 If the deletion worked properly you should see a "deleted successfully" message. Again, 
-=======
-# symfony-api-example
-A RESTful API using Symfony 3
->>>>>>> 18d8a2f3d76d6456b558b462fecedd8ed8b792fc
+
